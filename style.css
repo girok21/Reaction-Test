@@ -1,0 +1,35 @@
+body{
+    background-color: #e6dff0;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#TestScreen{
+    margin-top: 40px;
+    font-family: 'Archivo', sans-serif;;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+    margin-left: 0px;
+    background-color: rgb(43,135,209);
+    height: 65vh;
+    width: 100%;
+    padding-top: 100px;
+    cursor: pointer;
+}
+#TestScreen img{
+    max-width: 150px;
+    max-height: 150px;
+    margin-bottom: 5px;
+}
+#TestScreen h1{
+    font-weight: 600;
+    font-size: 80px;
+    margin-bottom: 1px;
+    margin-top: 10px;
+}
+#TestScreen h2{
+    font-weight: 100;
+    font-size: 25px;
+}
